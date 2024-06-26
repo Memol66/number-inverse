@@ -1,4 +1,4 @@
-# Get the number from the user;
+# Get the number from the user;0.0250
 num = input("Please enter an integer: ")
 # Calculate the reverse number.
 reverse_num = int(str(num)[::-1])
